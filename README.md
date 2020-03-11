@@ -1,2 +1,2 @@
 # konfigurilka
-Configuration tool fro everything
+Configuration tool for everything
